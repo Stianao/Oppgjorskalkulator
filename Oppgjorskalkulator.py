@@ -62,7 +62,6 @@ if __name__ == "__main__":
     from gui import start_gui
     start_gui()
     
-#cjfjks fjs 
 
 
         #print(f"Transportutgift med bompasseringer: {self.transport} kr")

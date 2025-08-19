@@ -13,4 +13,6 @@ git clone https://github.com/Stianao/Oppgjorskalkulator.git
 3. Run 
 
 ## Features
-- 
+- Calculates the total settlement cost
+- Popup window with inputfields
+    * 

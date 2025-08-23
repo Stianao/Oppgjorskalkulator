@@ -1,5 +1,5 @@
 # Oppgjorskalkulator
-A simple project to calculate settlements after driving and shopping expenses.
+A simple Python project to calculate settlements after driving and shopping expenses.
 
 ## Screenshots
 ![Oppgjorskalkulator](Images/kalkulatoren.png)
